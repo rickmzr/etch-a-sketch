@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#gridSizeBtn {
+    margin: 10px;
+    padding: 12px;
+}
+
+#container {
+    display: grid;
+    width: 1000px;
+    height: 1000px;
+}
